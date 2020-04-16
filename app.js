@@ -1,2 +1,2 @@
-//This is git Config
+//This is git Config commit
 console.log("Hello World JS");
